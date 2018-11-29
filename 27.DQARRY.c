@@ -1,3 +1,6 @@
+sneha jayan
+roll no:48
+
 #include<stdio.h>
 #include<stdlib.h>
 
